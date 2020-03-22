@@ -1,0 +1,74 @@
+body{
+	font-family: 'Baloo 2', cursive;
+}
+h1,h2,h3,h4,h5{
+	font-family: 'Baloo 2', cursive;
+}
+h1{
+	font-size: 4rem;	
+	font-weight: 800;
+}
+h2{
+	font-size: 2.5rem;
+	font-weight: 400;
+}
+h3{
+	font-size: 2rem;
+	font-weight: 400;
+}
+h4{
+	font-size: 1.75rem;
+	font-weight: 400;
+}
+p{
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+.tipografia-nav{
+	font-size: 1.5rem;	
+	font-weight: 800;
+}
+.bg-primary{
+	background-color: #3c8980 !important;
+}
+a.bg-primary:focus, a.bg-primary:hover{
+	background-color: #509189 !important;
+}
+.fondo{
+    background: url('../img/imagen1.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.fondo-2{
+	background-color: rgba(0,0,0,.5);
+	height: 100vh;
+}
+.bg-fondo-claro{
+	background-color: #fefaec;
+}
+.fondo-banner{
+	background-color: #f38181;
+}
+.fondo-seccion2{
+	background-color: #625772;
+}
+.fondo-seccion3{
+	background-color: #a9eee6;
+}
+.btn{
+	font-size: 1.25rem;
+	font-weight: 400;
+}
+.navbar {
+    max-height:82px;
+}
+.form-control{
+	border: 1px solid rgba(0,0,0,1);
+}
+.btn-form{
+	background-color: #a9eee6;
+}
+a.btn-form:focus, a.btn-form:hover{
+	background-color: #509189 !important;
+}
